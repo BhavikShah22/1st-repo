@@ -1,2 +1,3 @@
 # 1st-repo
-cresting first repository with Java practice projects
+creating first repository with Java practice projects
+Hello.
